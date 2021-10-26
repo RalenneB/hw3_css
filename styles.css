@@ -33,7 +33,7 @@ table {
     height: 1300px;
     background-color: gray;
     border-radius: 30px;
-    background-image: url("../assets/green.jpg");
+    background-image: url("./assets/green.jpg");
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 25px 0 rgba(5, 37, 8, 0.9);
 
 }
